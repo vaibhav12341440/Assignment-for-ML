@@ -26,7 +26,7 @@ output_excel_path = "Output/invoices_output.xlsx"
 invoice_data = []
 ```
 
-* `input_folder`: Location where your PDF invoice files are stored. Update it if your folder path changes.
+* `input_folder`: Location where your PDF invoice files are stored. 
 * `output_excel_path`: Where the Excel file will be saved.
 * `invoice_data`: A list to hold data extracted from each invoice.
 
